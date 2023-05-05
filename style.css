@@ -2,6 +2,11 @@ body{
 	background-image: linear-gradient(to bottom right, #000000, #1C382A);
 	font-family: 'Commissioner', sans-serif;
 }
+
+.catch-text {
+  color: white;
+}
+
 .resim {
   width: 100%;
   height: auto;
